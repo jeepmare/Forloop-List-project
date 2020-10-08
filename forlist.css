@@ -1,0 +1,34 @@
+ 
+#todolist {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 11pt;
+    color: black
+}
+ .DeleteButton {
+display: flex;
+justify-content: center;
+margin-left: 2px;
+margin-right: 2px;
+}
+
+
+ul { text-align: center;
+    margin-left: 15em;
+    margin-right: 15em;
+    padding-left: 0px;
+    list-style-position: inside;
+    
+}
+
+#entryArea {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+div { text-align: center;
+    margin-left: 4em;
+    margin-right: 4em;
+    margin-top: 20em;
+ }
